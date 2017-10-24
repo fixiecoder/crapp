@@ -1,0 +1,12 @@
+.base-button {
+  height: 40px;
+  min-width: 100px;
+  border: none;
+  background-color: #e5e5e5;
+  outline: none;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #f2efef;
+  }
+}

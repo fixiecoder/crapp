@@ -1,0 +1,15 @@
+.designer-wrapper {
+  display: flex;
+  height: calc(100vh - 60px);
+
+  .designer-navbar {
+    height: 40px;
+    background-color: green;
+  }
+
+  .designer-main-panel-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+}
