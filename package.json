@@ -15,7 +15,6 @@
   "dependencies": {
     "chalk": "^2.2.0",
     "commander": "^2.11.0",
-    "ncp": "^2.0.0",
-    "validate-npm-package-name": "^3.0.0"
+    "ncp": "^2.0.0"
   }
 }
