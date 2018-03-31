@@ -4,13 +4,13 @@
 
 Create an empty application.
 
-`$ crap a <application-name>`
+`$ ocrapp a <application-name>`
 
 ## Add file(s)
 
 Create a file or files inside your application. You can add components, container, actions and reducers.
 
-`$ crap f [options] <file-name>`
+`$ ocrapp f [options] <file-name>`
 
 ```
 -c, --component               add class component file
